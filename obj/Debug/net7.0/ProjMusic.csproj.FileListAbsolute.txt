@@ -1,0 +1,15 @@
+/home/davi/Área de Trabalho/ProjMusic/bin/Debug/net7.0/ProjMusic
+/home/davi/Área de Trabalho/ProjMusic/bin/Debug/net7.0/ProjMusic.deps.json
+/home/davi/Área de Trabalho/ProjMusic/bin/Debug/net7.0/ProjMusic.runtimeconfig.json
+/home/davi/Área de Trabalho/ProjMusic/bin/Debug/net7.0/ProjMusic.dll
+/home/davi/Área de Trabalho/ProjMusic/bin/Debug/net7.0/ProjMusic.pdb
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.csproj.AssemblyReference.cache
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.AssemblyInfoInputs.cache
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.AssemblyInfo.cs
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.csproj.CoreCompileInputs.cache
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.dll
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/refint/ProjMusic.dll
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.pdb
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ProjMusic.genruntimeconfig.cache
+/home/davi/Área de Trabalho/ProjMusic/obj/Debug/net7.0/ref/ProjMusic.dll
