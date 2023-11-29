@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 
+
 class CampoHarmonico
 {
     public List<string> notasValidas = new List<string> { "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B" };
@@ -31,6 +32,11 @@ class CampoHarmonico
             notas[(indiceNota + 5) % 12], notas[(indiceNota + 7) % 12], notas[(indiceNota + 9) % 12],
             notas[(indiceNota + 11) % 12]
         };
+
+        campoHarmonico[1] += "m"; 
+        campoHarmonico[2] += "m";  
+        campoHarmonico[5] += "m";  
+        campoHarmonico[6] += "°";  
 
         return campoHarmonico;
     }
